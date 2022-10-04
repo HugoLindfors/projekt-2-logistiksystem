@@ -1,0 +1,23 @@
+{
+  "name": "projekt-2-logistiksystem",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.1",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "nodemon": "^2.0.20",
+    "vite": "^3.0.9"
+  }
+}
